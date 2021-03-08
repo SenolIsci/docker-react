@@ -14,8 +14,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          An example of Prod-grade Workflow.React app, node.js as backend server.Example on AWS, tested by travis, codebase is in github. All updates and tests are automatically done.
-
+          Learn React
         </a>
       </header>
     </div>
